@@ -24,3 +24,5 @@ Follow the steps below to run the project locally:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+   npm install
+   npm rundev / npm start
